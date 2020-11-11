@@ -1,18 +1,17 @@
 #### Hi there 👋
-My name is Carolina and I am a brazilian Software Engineer currently based in Lisbon, Portugal. I had the oportunity to work with several technologies, but in the past six years I have foccused in work with Java. Sometimes I write [posts](https://dev.to/ccunha) to share what I'm learning.
+My name is Carolina and I am a brazilian Software Engineer currently based in Lisbon, Portugal. I had the oportunity to work with several technologies, but in the past six years I have foccused in work with Java. Sometimes I write posts to share what I'm learning or to share some of my thoughts. Lately I´ve been studying latest versons of Java, Spring Framework, Design Patterns and System Architecture. 
+<br />
+<br />
 
-[![Linkedin: carolina-de-oliveira-cunha](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-de-oliveira-cunha/)](https://www.linkedin.com/in/carolina-de-oliveira-cunha/)
-<!--
-**ccunha/ccunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carolina-de-oliveira-cunha/)
+[<img align="left" alt="Dev.to" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/ccunha)
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@soucarolo)
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack
+<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
