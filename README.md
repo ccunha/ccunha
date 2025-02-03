@@ -1,5 +1,8 @@
 #### Hi there 👋
-My name is Carolina and I am a brazilian Software Engineer currently based in Lisbon, Portugal. I had the oportunity to work with several technologies, but in the past six years I have foccused in work with Java. Sometimes I write posts to share what I'm learning or to share some of my thoughts. Lately I´ve been studying latest versons of Java, Spring Framework, Design Patterns and System Architecture. 
+My name is Carolina and I am currently based in Lisbon, Portugal. 
+I worked as a Software Engineer for several years but I was not happy. So, I decided to transition to a support role, as I was trying to decide what could make me happy to work with, and I think I found a new interesting field: Data Engineering!
+
+Now, I'm walking with baby steps in Data Engineering!
 <br />
 <br />
 
@@ -7,6 +10,3 @@ My name is Carolina and I am a brazilian Software Engineer currently based in Li
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carolina-de-oliveira-cunha/)
 <br />
 <br />
-
-## Technology Stack
-<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
